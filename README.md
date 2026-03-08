@@ -1,4 +1,12 @@
 <div align="center">
+<img src="logo-em.png" alt="Empty Media Manager Logo" width="600">
+</div>
+
+
+
+<div align="center">
+  
+  
   <img src="https://badges-jet.vercel.app/api/card?username=erogluyusuf&repo=Empty-MediaManager&theme=dark&animate=true&qr=true&w=550&customBadges=UI:Jetpack%20Compose:42b883:jetpackcompose,Language:Kotlin:7F52FF:kotlin,Engine:ExoPlayer:FF5722:googleplay,Gallery:Coil:31A8FF:android" alt="Empty Media Manager Card">
   
   <h1> Empty Media Manager</h1>
@@ -52,6 +60,13 @@
 3.  Install it on your Android device and grant the necessary permissions.
 
 ---
+## Screenshots
+<div align="center">
+  <img src="app.jpg" alt="Empty Media Manager App Screenshot" width="200">
+</div>
+
+---
+
 <div align="center">
   Developed by <b>Yusuf Eroğlu</b>
 </div>
