@@ -1,7 +1,7 @@
 <div align="center">
 <img src="logo-em.png" alt="Empty Media Manager Logo" width="600">
 </div>
-
+ 
 
 
 <div align="center">
